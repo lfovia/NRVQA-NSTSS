@@ -28,7 +28,7 @@ Step2: Performance evaluation using functions in PerformanceEvaluation folder.
 
 Details about other folders.
 
-videos: You can place videos here to extracts its features.
-src: contains 3D MSCN function, AGGD parameter estimate, and Gabor 3D Kernal.
-matlab_yuvread: contains functions to read .yuv videos.
-logistic fitting: Contain logistic regression function to find LCC and SRCC between objective and subjective scores.
+       (i) videos: You can place videos here to extracts its features.
+       (ii) src: contains 3D MSCN function, AGGD parameter estimate, and Gabor 3D Kernal.
+       (iii) matlab_yuvread: contains functions to read .yuv videos.
+       (iv) logistic fitting: Contain logistic regression function to find LCC and SRCC between objective and subjective scores.
