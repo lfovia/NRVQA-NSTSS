@@ -13,7 +13,7 @@ If you are using the code/model/data provided here in a publication, please cite
     number={},
     pages={5612-5624},}
 
-This is a two-step approach i.e. spatiotemporal feature extraction followed by regression against subjective quality scores. To evaluate the performance of this approach on a given video quality assessment (VQA) dataset, we advise you to follow the following steps.
+This is a two-step approach i.e. spatiotemporal feature extraction followed by regression against subjective quality scores. To evaluate the performance of this approach on a given video quality assessment (VQA) dataset, we advise to follow the following steps.
 
 Step1: Feature extraction using functions in FeatureExtraction folder. 
 
